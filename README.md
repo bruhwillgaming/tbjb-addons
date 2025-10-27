@@ -1,4 +1,11 @@
+
 # TBJB Addons - Useless Commands
+<details>
+  <summary>what was used bc idk</summary>
+  
+</details>
+[![stuff used bc idk](https://skillicons.dev/icons?i=js,git,github,aws,discord,twitter,&perline=6)](https://skillicons.dev)
+</details>
 
 WTF is this? It's a tiny addon for the Windows 93 trollbox that provides a bunch of silly, useless chat commands. Use it if you want the chat to spit out stupid shit locally. Yes, it's dumb. Yes, it says words like "wtf", "fuck", "bitch", etc. It's intentionally potty-mouthed and rude — don't use it where that would get you banned.
 
